@@ -10,7 +10,7 @@ ________________________________________________________
   <img align="left" alt="Telegram" width="34px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">
 </a>
 
-<a href="https://t.me/AgafonovSiberia](https://vk.com/agafonov_siberia">
+<a href="https://vk.com/agafonov_siberia">
   <img align="left" alt="VK" width="34px" src="https://cdn-icons-png.flaticon.com/512/2504/2504953.png"></a>
 
 
