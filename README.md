@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/AgafonovSiberia" target="_blank">Stanislav</a> 
+<h3 align="left">Hi there, I'm <a href="https://github.com/AgafonovSiberia" target="_blank">Stanislav Agafonov</a> 
+  
 ________________________________________________________
   
 ### Contact with me
-
 <a href="https://www.instagram.com/agafonov_siberia/">
   <img align="left" alt="Abhishek's Instagram" width="34px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
