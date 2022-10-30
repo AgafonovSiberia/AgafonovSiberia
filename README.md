@@ -14,6 +14,9 @@ ________________________________________________________
 <a href="https://vk.com/agafonov_siberia">
   <img align="left" alt="VK" width="34px" src="https://cdn-icons-png.flaticon.com/512/2504/2504953.png"></a>
 
+<a href="mailto:agafonov@chita.ru">
+  <img align="left" alt="VK" width="38px" src="https://free-png.ru/wp-content/uploads/2021/11/free-png.ru-454.png"></a>
+  
 
 <br><br>
 
