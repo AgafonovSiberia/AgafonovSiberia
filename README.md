@@ -1,4 +1,4 @@
-### Hi, I'm Stanislav Agafonov
+<h1 align="center">Hi there, I'm <a href="https://github.com/AgafonovSiberia" target="_blank">Stanislav</a> 
 ________________________________________________________
 ### Contact with me
 
