@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**AgafonovSiberia/AgafonovSiberia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack
+![Python](https://img.shields.io/badge/Python-3-brightgreent)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)
+![Sanic](https://img.shields.io/badge/Sanic-Framework-red)
+![Aiogram](https://img.shields.io/badge/Aiogram-3.x-blue)
 
-Here are some ideas to get you started:
+![SQLAlchemy ORM](https://img.shields.io/badge/SQLAlchemy-ORM-orange)
+![PostgreSQL DB](https://img.shields.io/badge/PostgreSQL-DB-blue)
+![Redis](https://img.shields.io/badge/Redis-Caching-yellow)
+![Celery](https://img.shields.io/badge/Celery-Tasks-lightgrey)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Docker-compose](https://img.shields.io/badge/Docker--compose-Multi--container-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Telegram: https://t.me/AgafonovSiberia
